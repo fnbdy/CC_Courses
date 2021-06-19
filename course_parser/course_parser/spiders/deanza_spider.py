@@ -1,21 +1,26 @@
 import re
-from itemloaders.processors import MapCompose
-from course_parser.items import Course, Department
-from course_parser.item_loaders import CourseLoader, DepartmentLoader
-
-from scrapy import Spider, item
-from scrapy.http.response.html import HtmlResponse
 from datetime import datetime
+
+from course_parser.item_loaders import CourseLoader, DepartmentLoader
+from course_parser.items import Course, Department
+from itemloaders.processors import MapCompose
+from scrapy import Spider, item
+from scrapy.http.request import Request
+from scrapy.http.response.html import HtmlResponse
 
 
 class CourseCatalogSpider(Spider):
     name = "course_catalog"
-    start_urls = [
-        'https://www.deanza.edu/catalog/courses/',
-    ]
     query_url = 'https://www.deanza.edu/_resources/php/catalog/dept-course-list.php?dept='
 
-    def parse(self, response: HtmlResponse, **kwargs):
+    def start_requests(self):
+        urls = [
+            'https://www.deanza.edu/catalog/courses/',
+        ]
+        for url in urls:
+            yield Request(url, callback=self.get_departments)
+
+    def get_departments(self, response: HtmlResponse, **kwargs):
         for dept_tag in response.xpath('//select[@id="ddlDepts"]/option[@value!=0]'):
             dept_ldr = DepartmentLoader(item=Department(), response=response)
 
