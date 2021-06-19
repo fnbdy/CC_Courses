@@ -38,8 +38,7 @@ def text_to_int(sentence: str):
     '''
     English to integers.
     This is terrible, I would write something better but low priority and too lazy for now.
-    Non standard implementation.
-    Only supports n < 100.
+    Only supports n < 100, also only multiples of 10 beyond 19.
     '''
     for pattern, key in zip(TEXT2NUM_PATTERNS, numbers.keys()):
         sentence = re.sub(pattern, str(numbers[key]), sentence)
