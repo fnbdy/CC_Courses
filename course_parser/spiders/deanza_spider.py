@@ -13,6 +13,12 @@ class CourseCatalogSpider(Spider):
     name = "course_catalog"
     query_url = 'https://www.deanza.edu/_resources/php/catalog/dept-course-list.php?dept='
 
+    # custom_settings = {
+    #     'ITEM_PIPELINES': {
+    #         'course_parser.pipelines.CoursePipeline': 100,
+    #     }
+    # }
+
     def start_requests(self):
         urls = [
             'https://www.deanza.edu/catalog/courses/',

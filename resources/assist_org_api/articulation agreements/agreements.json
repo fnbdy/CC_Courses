@@ -1,0 +1,675 @@
+{
+	"reports": [
+		{
+			"label": "Bioengineering/B.S.",
+			"key": 24779066,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Aerospace  Engineering/B.S",
+			"key": 24779067,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Chemical Engineering/ B.S",
+			"key": 24779068,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Civil Engineering/B.S.",
+			"key": 24779069,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Computer Science and Engineering/B.S.",
+			"key": 24779070,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Biology/B.S.",
+			"key": 24779071,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Electrical Engineering/B.S.",
+			"key": 24779072,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Computer Science/B.S.",
+			"key": 24779073,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Mechanical Engineering/B.S.",
+			"key": 24779074,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Materials Engineering/B.S.",
+			"key": 24779075,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Ecology, Behavior, and Evolution/B.S.",
+			"key": 24779076,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Marine Biology/B.S.",
+			"key": 24779077,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Neuroscience/B.S.",
+			"key": 24779078,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Microbiology, Immunology, and Molecular Genetics/B.S.",
+			"key": 24779079,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Molecular, Cell, and Developmental Biology/B.S.",
+			"key": 24779080,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Physiological Science/B.S.",
+			"key": 24779081,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Psychobiology/B.S.",
+			"key": 24779082,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Psychology/B.A.",
+			"key": 24779083,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Political Science/B.A.",
+			"key": 24779084,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Human Biology and Society/B.S.",
+			"key": 24779085,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Sociology/B.A.",
+			"key": 24779086,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "English/B.A.",
+			"key": 24779087,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Biochemistry/B.S.",
+			"key": 24779088,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "International Development Studies/B.A.",
+			"key": 24779089,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Chemistry/B.S.",
+			"key": 24779090,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Human Biology and Society/B.A.",
+			"key": 24779091,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Mathematics/B.S.",
+			"key": 24779092,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Mathematics of Computation/B.S.",
+			"key": 24779093,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Financial Actuarial Mathematics/B.S.",
+			"key": 24779094,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Mathematics/Economics/B.S.",
+			"key": 24779095,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Anthropology/B.A.",
+			"key": 24779096,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "History/B.A.",
+			"key": 24779097,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "American Literature and Culture/B.A.",
+			"key": 24779098,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Geography/B.A.",
+			"key": 24779099,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Statistics/B.S.",
+			"key": 24779100,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Art History/B.A.",
+			"key": 24779101,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Anthropology/B.S.",
+			"key": 24779102,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Astrophysics/B.S.",
+			"key": 24779103,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Biophysics/B.S.",
+			"key": 24779104,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Physics/B.A.",
+			"key": 24779105,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Geography/Environmental Studies/B.A.",
+			"key": 24779106,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Physics/B.S.",
+			"key": 24779107,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Geophysics/B.S.",
+			"key": 24779108,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Geology/B.S.",
+			"key": 24779109,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Engineering Geology/B.S.",
+			"key": 24779110,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Nursing-Generic/Prelicensure/B.S.",
+			"key": 24779111,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Art/B.A.",
+			"key": 24779112,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "African American Studies/B.A.",
+			"key": 24779113,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Dance/B.A.",
+			"key": 24779114,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Earth and Environmental Science/B.A.",
+			"key": 24779115,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Design/Media Arts/B.A.",
+			"key": 24779116,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Architectural Studies/B.A.",
+			"key": 24779117,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Comparative Literature/B.A.",
+			"key": 24779118,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Applied Mathematics/B.S.",
+			"key": 24779119,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Theater B.A.",
+			"key": 24779120,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Ethnomusicology/B.A.",
+			"key": 24779121,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "World Arts and Cultures/B.A.",
+			"key": 24779122,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Film and Television/B.A.",
+			"key": 24779123,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Philosophy/B.A.",
+			"key": 24779124,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Asian American Studies/B.A.",
+			"key": 24779125,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Applied Linguistics/B.A.",
+			"key": 24779126,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "American Indian Studies/B.A.",
+			"key": 24779127,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Asian Humanities/B.A.",
+			"key": 24779128,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Ancient Near East and Egyptology/B.A.",
+			"key": 24779129,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Asian Religions/B.A.",
+			"key": 24779130,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Arabic/B.A.",
+			"key": 24779131,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Central and East European Languages and Cultures/B.A.",
+			"key": 24779132,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Chemistry/Materials Science/B.S.",
+			"key": 24779133,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Chinese/B.A.",
+			"key": 24779134,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Chicana and Chicano Studies/B.A.",
+			"key": 24779135,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Computational and Systems Biology/B.S.",
+			"key": 24779136,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Asian Studies/B.A.",
+			"key": 24779137,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "French and Linguistics/B.A.",
+			"key": 24779138,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Classical Civilization/B.A.",
+			"key": 24779139,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Gender Studies/B.A.",
+			"key": 24779140,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "French/B.A.",
+			"key": 24779141,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Greek and Latin/B.A.",
+			"key": 24779142,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "German/B.A.",
+			"key": 24779143,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Greek/B.A.",
+			"key": 24779144,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Iranian Studies/B.A.",
+			"key": 24779145,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Italian and Special Fields/B.A.",
+			"key": 24779146,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Environmental Science/B.S.",
+			"key": 24779147,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Japanese/B.A.",
+			"key": 24779148,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Italian/B.A.",
+			"key": 24779149,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Jewish Studies/B.A.",
+			"key": 24779150,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Korean/B.A.",
+			"key": 24779151,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Latin/B.A.",
+			"key": 24779152,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Linguistics and Anthropology/B.A.",
+			"key": 24779153,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Linguistics and Computer Science/B.A.",
+			"key": 24779154,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Linguistics and Asian Languages and Cultures/B.A.",
+			"key": 24779155,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Linguistics and French/B.A.",
+			"key": 24779156,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Linguistics and English/B.A.",
+			"key": 24779157,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Linguistics and Italian/B.A.",
+			"key": 24779158,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Linguistics and Philosophy/B.A.",
+			"key": 24779159,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Linguistics and Spanish/B.A.",
+			"key": 24779160,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Latin American Studies/B.A.",
+			"key": 24779161,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Linguistics/B.A.",
+			"key": 24779162,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Linguistics and Psychology/B.A.",
+			"key": 24779163,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Russian Language and Literature/B.A.",
+			"key": 24779164,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Portuguese/B.A.",
+			"key": 24779165,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Russian Studies/B.A.",
+			"key": 24779166,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Spanish and Community and Culture/B.A.",
+			"key": 24779167,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Scandinavian Languages and Cultures/B.A.",
+			"key": 24779168,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Middle Eastern Studies/B.A.",
+			"key": 24779169,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Spanish and Portuguese/B.A.",
+			"key": 24779170,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Spanish and Linguistics/B.A.",
+			"key": 24779171,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "European Studies/B.A.",
+			"key": 24779172,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Spanish/B.A.",
+			"key": 24779173,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Linguistics and Scandinavian Languages/B.A.",
+			"key": 24779174,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "African and Middle Eastern Studies/B.A.",
+			"key": 24779175,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Nordic Studies/B.A.",
+			"key": 24779176,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Asian Languages and Linguistics/B.A.",
+			"key": 24779177,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Cognitive Science/B.S.",
+			"key": 24779178,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Computer Engineering/B.S.",
+			"key": 24779179,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Musicology/B.A.",
+			"key": 24779180,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Communication/B.A.",
+			"key": 24779181,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Mathematics for Teaching/B.S.",
+			"key": 24779182,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Public Affairs/B.A.",
+			"key": 24779183,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Climate/B.S.",
+			"key": 24779184,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Atmospheric and Oceanic Sciences/B.S.",
+			"key": 24779185,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Music Education/B.A.",
+			"key": 24779186,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Global Jazz Studies/B.A.",
+			"key": 24779187,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Atmospheric, And Oceanic Sciences/Mathematics/B.S.",
+			"key": 24779188,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Global Studies/B.A.",
+			"key": 24779189,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Data Theory/B.S.",
+			"key": 24779190,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Economics/B.A.",
+			"key": 24779191,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Music Composition/B.A.",
+			"key": 24779192,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Business Economics/B.A.",
+			"key": 24779193,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Mathematics/Applied Science/B.S.",
+			"key": 24779194,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Labor Studies/B.A.",
+			"key": 24779195,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Education and Social Transformation/B.A.",
+			"key": 24779196,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Music Performance/B.M.",
+			"key": 24779197,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Music History & Industry/B.A. ",
+			"key": 24779198,
+			"ownerInstitutionId": 0
+		},
+		{
+			"label": "Religion, Study of /B.A.",
+			"key": 24779199,
+			"ownerInstitutionId": 0
+		}
+	],
+	"allReports": []
+}

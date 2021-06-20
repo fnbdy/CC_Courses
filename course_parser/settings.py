@@ -91,4 +91,5 @@ HTTPCACHE_IGNORE_HTTP_CODES = [404, 500, 403]
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 # SQLAlchemy
-CONNECTION_STRING = 'sqlite:///scrapy_quotes.db'
+# CONNECTION_STRING = 'sqlite:///scrapy_quotes.db'
+CONNECTION_STRING = 'postgresql://postgres:ppgres@192.168.0.202:5432/de_anza'

@@ -13,9 +13,9 @@ class CourseParserItem(scrapy.Item):
 
 
 class Course(scrapy.Item):
-    dept_code = scrapy.Field()
-    name = scrapy.Field()
     id = scrapy.Field()
+    name = scrapy.Field()
+    dept_code = scrapy.Field()
     description = scrapy.Field()
     units = scrapy.Field()
     hours = scrapy.Field()
@@ -30,7 +30,6 @@ class Course(scrapy.Item):
     coreqs = scrapy.Field()
     details_page = scrapy.Field()
     outline_page = scrapy.Field()
-    last_updated = scrapy.Field(serializer=str)
 
 
 class Department(scrapy.Item):
